@@ -1,0 +1,8 @@
+TestsBccBot
+6875592965:AAFgwI_hO2kY223BaOTe7uSAgsgbNNqXKr0
+-1001989432251
+452212847
+https://api.telegram.org/bot5838405164:AAG0zlUwbnQbpU-9N_Sjqa6TjwwKs7iGD5c/getUpdates
+
+java "-DconfigFile=notifications/config.json" -jar ../allure-notifications-4.4.0.jar
+
