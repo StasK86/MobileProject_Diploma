@@ -94,16 +94,6 @@ gradle clean android -DdeviceHost=stack
 <img src="psv/screenshots/Screenshot7.png" alt="Test Case" width="1000" height="350">
 </p>
 
-### Содержание тест-кейсов
-
-- :heavy_check_mark: Подробное описание шагов
-- :heavy_check_mark: Критичность теста
-- :heavy_check_mark: Автор
-- :heavy_check_mark: Последний скриншот для каждого теста
-- :heavy_check_mark: HTML разметка страницы
-- :heavy_check_mark: Логи браузера
-- :heavy_check_mark: Видео с прохождением теста
-
 ### Графики
 
 <p align="center">
