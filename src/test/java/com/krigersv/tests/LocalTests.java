@@ -26,7 +26,7 @@ public class LocalTests extends TestBase {
     ResolutionPage resolutionPage = new ResolutionPage();
     @Test
     @Severity(NORMAL)
-    @DisplayName("Поиска теста в википедии")
+    @DisplayName("Поиск текста в википедии")
     void searchTest() {
         back();
         step("Клик на поисковое поле", () ->
@@ -98,7 +98,7 @@ public class LocalTests extends TestBase {
 
     @Test
     @Severity(NORMAL)
-    @DisplayName("проверка страницы авторизации")
+    @DisplayName("Проверка страницы авторизации")
     void verifyOpeningOfResolutionPageTest() {
         back();
         step("Переход в меню приложения", () ->

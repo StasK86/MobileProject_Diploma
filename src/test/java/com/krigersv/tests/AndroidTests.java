@@ -35,7 +35,7 @@ public class AndroidTests extends TestBase {
 
     @Test
     @Severity(CRITICAL)
-    @DisplayName("При открытии статьи отображается ошибка")
+    @DisplayName("Ошибка при открытии статьи")
     void openArticle() {
 
         step("Ввести запрос", () -> {
@@ -66,7 +66,7 @@ public class AndroidTests extends TestBase {
 
     @Test
     @Severity(CRITICAL)
-    @DisplayName("При поисковом запросе отображается ошибка")
+    @DisplayName("Ошибка при поисковом запросе")
     void checkErrorRemoteTest() {
         step("Ввод поискового запроса", () -> {
             searchPage.searchWiki();
