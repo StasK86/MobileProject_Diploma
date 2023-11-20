@@ -44,7 +44,7 @@
 [Проверка локального запуска ](https://github.com/StasK86/MobileProject_Diploma/blob/master/src/test/java/com/krigersv/tests/LocalTests.java)
 
 - :white_check_mark: Поиск текста в википедии
-- :white_check_mark:Проверка статьи
+- :white_check_mark: Проверка статьи
 - :white_check_mark: Проверка страниц wiki
 - :white_check_mark: Проверка выбора языка
 - :white_check_mark: Проверка страницы авторизации
