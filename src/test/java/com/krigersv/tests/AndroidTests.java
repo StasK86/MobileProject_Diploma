@@ -36,7 +36,7 @@ public class AndroidTests extends TestBase {
     @Test
     @Severity(CRITICAL)
     @DisplayName("Ошибка при открытии статьи")
-    void openArticle() {
+    void openArticleTest() {
 
         step("Ввести запрос", () -> {
             searchPage.srcSearch();
